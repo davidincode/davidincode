@@ -14,4 +14,4 @@
 Previo a ingresar al bootcamp, estudié un pregado de <b>Ingeniería en Sistemas</b> en la Universidad Distrital Francisco José de Caldas. Sin embargo, decidí cambiar de rumbo a la mitad del camino para fortalecer mi conocimiento en programación de forma práctica e intensiva. 💯
 
 <h3>🎯 Where I am currently focused</h3>
-🌱 En este emocionante momento de mi trayectoria como desarrollador, siento un renovado impulso y pasión por profundizar mi conocimiento en el fascinante campo del desarrollo <b>Back-End</b>. Este enfoque surge de mi innata curiosidad y deseo de profundizar en el comportamiento subyacente de una aplicación, cuya importancia crítica en la creación de una solución tecnológica sólida y escalable.
+🌱 En este emocionante momento de mi trayectoria como desarrollador, siento un renovado impulso y pasión por profundizar mi conocimiento en el fascinante campo del desarrollo <b>Back-End</b>. Este enfoque surge de mi innata curiosidad y deseo de profundizar en el comportamiento subyacente de una aplicación, cuya importancia es crítica en la creación de una solución tecnológica sólida y escalable.
