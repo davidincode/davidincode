@@ -8,7 +8,7 @@
 
 
 <h3>👨‍💻 David's Coding Journey</h3>
-🎓 Actualmente estoy estudiando en el bootcamp de <b>Henry</b>, donde pude cimentar mi conocimiento en una diversidad de tecnologías. En esta última etapa del bootcamp estoy desarrollando una emocionante aplicación web para la reconocida empresa argentina llamada Bookbuster, como parte de mi pasantía. 🛠️
+🎓 Soy un graduado del bootcamp de Henry <b>Henry</b>, donde pude cimentar mi conocimiento en una diversidad de tecnologías. En la última etapa del bootcamp estuve desarrollando una emocionante aplicación web para la reconocida empresa argentina llamada Bookbuster, como parte de mi pasantía, donde construí junto a mi equipo un MVP sólido que impulsó la funcionalidad detrás de la aplicación web 🛠️
 <br />
 <br />
 Previo a ingresar al bootcamp, estudié un pregado de <b>Ingeniería en Sistemas</b> en la Universidad Distrital Francisco José de Caldas. Sin embargo, decidí cambiar de rumbo a la mitad del camino para fortalecer mi conocimiento en programación de forma práctica e intensiva. 💯
