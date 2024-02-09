@@ -13,7 +13,8 @@
 <br />
 <br />
 Previo a ingresar al bootcamp, estudié un pregado de <b>Ingeniería en Sistemas</b> en la Universidad Distrital Francisco José de Caldas. Decidí cambiar de rumbo a la mitad del camino para fortalecer mi conocimiento en programación de forma práctica e intensiva. 💯
-
+<br />
+<br />
 En este momento me encuentro en la última etapa de mi tecnicatura en la ciudad de Bogotá D.C, donde pude consolidar una solida comprensión teórica del área web, pero también pude poner en práctica todo lo aprendido para construir el proyecto con mayor calificación del <b>Final Code Project INCAP</b> en colaboración con un equipo multicultural. 🔥
 
 <h3>🎯 Where I am currently focused</h3>
