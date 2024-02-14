@@ -1,4 +1,4 @@
-![LinkedIn Cover](https://github.com/davidincode/davidincode/assets/72705177/bdd8b3ed-42e6-4ae3-aa9a-e81b285f2313)
+![Cover Profesional](https://github.com/davidincode/davidincode/assets/72705177/9376c887-27fd-4ea6-ba8c-85ec5df699f1)
 
 <h3>💫 About Me</h3> 
 <b>Desarrollador Full-Stack </b>de Colombia. Me apasiona la tecnología, el campo del desarrollo de software, pero sobre todo crear código en virtud de la sociedad. 🚀 Mi propósito en cada equipo es servir de mi conocimiento para desarrollar código que contribuya a crear una, o más de una solución integral para un producto funcional, pero sobre todo con una experiencia de usuario cómoda. 🎨
