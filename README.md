@@ -1,21 +1,12 @@
 ![Cover Profesional](https://github.com/davidincode/davidincode/assets/72705177/9376c887-27fd-4ea6-ba8c-85ec5df699f1)
 
-<h3>💫 About Me</h3> 
-<b>Desarrollador Full-Stack </b>de Colombia. Me apasiona la tecnología, el campo del desarrollo de software, pero sobre todo crear código en virtud de la sociedad. 🚀 Mi propósito en cada equipo es servir de mi conocimiento para desarrollar código que contribuya a crear una, o más de una solución integral para un producto funcional, pero sobre todo con una experiencia de usuario cómoda. 🎨
+<h3>💫 Acerca de David</h3> 
+¡Hola, terrestre 🖖! Soy David, <b>Desarrollador de Software Web</b> ubicado en Bogotá D.C. Desde que tengo memoria, siento una profunda curiosidad por la tecnología. Cada invención que veía en el periódico, en la TV o en Internet despertaba cada vez más en mí esa curiosidad por el sector. Sin embargo, fue el descubrimiento de su impacto positivo en nuestra civilización lo que despertó en mí pasión por el campo. Ver cómo la tecnología democratizaba la información, comunicaba a una cultura con otra o reducía la brecha de educación fue determinante para escoger este campo como mi profesión.
+<br /><br />
+Por ese motivo, elegí la programación como mi sendero profesional. Sin importar su complejidad, el código siempre tiene una belleza lógica única. Cuando se emplea en virtud de la sociedad, permite crear cosas increíbles, desde un blog que da voz a novel escritor hasta un algoritmo capaz de conducir un automóvil sin intervención humana. En efecto, el código no es solo una vocación, sino también un poderoso pincel capaz de transformar una idea en un producto que puede impactar positivamente nuestro entorno.
+<br /><br />
+Impulsado por la convicción de que una línea de código puede cambiar el mundo, vivo en un proceso de aprendizaje constante en este campo. No solo con la intención de crecer profesionalmente, sino también para ser partícipe de esta oleada de innovación que crea poco a poco un futuro prometedor. 🚀
 
-<h3>🛠️ My Skill Set</h3> 
+<h3>🎨 ¿Cuál es mi paleta?</h3> 
 
-![SkillSet](https://github.com/itsjefferson/itsjefferson/assets/72705177/6e4037db-d560-4e82-a981-78f24920d4ad)
-
-
-<h3>👨‍💻 David's Coding Journey</h3>
-🎓 Soy un graduado del bootcamp de <b>Henry</b>, donde pude cimentar mi conocimiento en una diversidad de tecnologías. En la última etapa del bootcamp estuve desarrollando una solución del mundo real para la reconocida empresa argentina Bookbuster, como parte de mi pasantía, donde construí junto a mi equipo un MVP sólido que impulsó la funcionalidad detrás de la aplicación web 🛠️
-<br />
-<br />
-Previo a ingresar al bootcamp, estudié un pregado de <b>Ingeniería en Sistemas</b> en la Universidad Distrital Francisco José de Caldas. Decidí cambiar de rumbo a la mitad del camino para fortalecer mi conocimiento en programación de forma práctica e intensiva. 💯
-<br />
-<br />
-En este momento me encuentro en la última etapa de mi tecnicatura en la ciudad de Bogotá D.C, donde pude consolidar una solida comprensión teórica del área web, pero también pude poner en práctica todo lo aprendido para construir el proyecto con mayor calificación del <b>Final Code Project INCAP</b> en colaboración con un equipo multicultural. 🔥
-
-<h3>🎯 Where I am currently focused</h3>
-🌱 En este emocionante momento de mi trayectoria como desarrollador, siento un renovado impulso y pasión por profundizar mi conocimiento en el fascinante campo del desarrollo <b>Back-End</b>. Este enfoque surge de mi innata curiosidad y deseo de profundizar en el comportamiento subyacente de una aplicación, cuya importancia es crítica en la creación de una solución tecnológica sólida y escalable.
+![Stack](https://github.com/davidincode/davidincode/assets/72705177/a125ae8d-1338-4801-b520-25887891cf26)
