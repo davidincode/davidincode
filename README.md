@@ -7,6 +7,6 @@ Por ese motivo, elegí la programación como mi sendero profesional. Sin importa
 <br /><br />
 Impulsado por la convicción de que una línea de código puede cambiar el mundo, vivo en un proceso de aprendizaje constante en este campo. No solo con la intención de crecer profesionalmente, sino también para ser partícipe de esta oleada de innovación que crea poco a poco un futuro prometedor. 🚀
 
-<h3>🎨 ¿Cuál es mi paleta?</h3> 
+<h3>🎨Skill Set</h3> 
 
 ![Stack](https://github.com/davidincode/davidincode/assets/72705177/a125ae8d-1338-4801-b520-25887891cf26)
