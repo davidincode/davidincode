@@ -6,7 +6,3 @@
 Por ese motivo, elegí la programación como mi sendero profesional. Sin importar su complejidad, el código siempre tiene una belleza lógica única. Cuando se emplea en virtud de la sociedad, permite crear cosas increíbles, desde un blog que da voz a novel escritor hasta un algoritmo capaz de conducir un automóvil sin intervención humana. En efecto, el código no es solo una vocación, sino también un poderoso pincel capaz de transformar una idea en un producto que puede impactar positivamente nuestro entorno.
 <br /><br />
 Impulsado por la convicción de que una línea de código puede cambiar el mundo, vivo en un proceso de aprendizaje constante en este campo. No solo con la intención de crecer profesionalmente, sino también para ser partícipe de esta oleada de innovación que crea poco a poco un futuro prometedor. 🚀
-
-<h3>🎨Skill Set</h3> 
-
-![Stack](https://github.com/davidincode/davidincode/assets/72705177/a125ae8d-1338-4801-b520-25887891cf26)
